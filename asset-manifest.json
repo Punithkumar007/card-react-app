@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card-react-app/static/css/main.e1379346.chunk.css",
+    "main.js": "/card-react-app/static/js/main.9b109a22.chunk.js",
+    "main.js.map": "/card-react-app/static/js/main.9b109a22.chunk.js.map",
+    "runtime-main.js": "/card-react-app/static/js/runtime-main.b4b28c77.js",
+    "runtime-main.js.map": "/card-react-app/static/js/runtime-main.b4b28c77.js.map",
+    "static/js/2.159489e6.chunk.js": "/card-react-app/static/js/2.159489e6.chunk.js",
+    "static/js/2.159489e6.chunk.js.map": "/card-react-app/static/js/2.159489e6.chunk.js.map",
+    "static/js/3.fb7577df.chunk.js": "/card-react-app/static/js/3.fb7577df.chunk.js",
+    "static/js/3.fb7577df.chunk.js.map": "/card-react-app/static/js/3.fb7577df.chunk.js.map",
+    "index.html": "/card-react-app/index.html",
+    "static/css/main.e1379346.chunk.css.map": "/card-react-app/static/css/main.e1379346.chunk.css.map",
+    "static/js/2.159489e6.chunk.js.LICENSE.txt": "/card-react-app/static/js/2.159489e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4b28c77.js",
+    "static/js/2.159489e6.chunk.js",
+    "static/css/main.e1379346.chunk.css",
+    "static/js/main.9b109a22.chunk.js"
+  ]
+}
